@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pizza S.A.C</string>
+    <string name="ordenar">Ordenar</string>
+    <string name="mg">Masa gruesa</string>
+    <string name="md">Masa delgada</string>
+    <string name="ms">Masa artesanal</string>
+    <string name="tipoM">Tipo de masa :</string>
+    <string name="compl">Complementos :</string>
+    <string name="ex">Extra queso</string>
+    <string name="ex2">Extra jamón</string>
+    <string name="d">Dirección de envío</string>
+    <string name="dv">Enviar</string>
+
+</resources>
